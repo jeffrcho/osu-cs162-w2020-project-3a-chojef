@@ -18,8 +18,8 @@ for i in range(1, volume):
         min = num_total
     if num_total > max:
         max = num_total
-print('min: ', min)
-print('max: ', max)
+print('min:', min)
+print('max:', max)
 
 
 
