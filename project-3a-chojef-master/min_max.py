@@ -5,8 +5,6 @@
 # enter that many integers. After all the numbers have been entered, the program should display the
 # largest and smallest of those numbers
 
-
-
 print('How many integers would you like to enter?')
 volume = int(input())
 print('Please enter', volume, 'integers.')
